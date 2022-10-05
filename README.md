@@ -27,4 +27,4 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-projects smart contract is deployed at goerly testnet(5). you can deploy it anywhere just change abi in contract.js and address in blockchainload.js
+projects smart contract is deployed at goerli testnet(5). you can deploy it anywhere just change abi in contract.js and address in blockchainload.js
